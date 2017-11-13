@@ -23,7 +23,7 @@
 
 送张图片说明一下关系：
 
-<img src="https://raw.githubusercontent.com/WnagYo/Dragger2Demo/master/injection.jpg" width="50%" height="50%">
+<img src="https://raw.githubusercontent.com/WnagYo/Dragger2Demo/master/injection.jpg" width="100%" height="100%">
 
 **使用的类**
 
