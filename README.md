@@ -25,6 +25,9 @@
 
 <img src="https://raw.githubusercontent.com/WnagYo/Dragger2Demo/master/injection.jpg" width="100%" height="100%">
 
+#### 举个栗子：
+在app目录下的build.gradle中添加:
+ xxxxxxxxxx dependencies {    ...    //引入dagger2    compile 'com.google.dagger:dagger:2.12'    annotationProcessor 'com.google.dagger:dagger-compiler:2.12'}
 **使用的类**
 
 ```java
