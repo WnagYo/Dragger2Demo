@@ -141,3 +141,7 @@ public class MainActivity extends AppCompatActivity {
 }
 
 ```
+
+#### 参考文章：
+[Dagger2 入门,以初学者角度](http://www.jianshu.com/p/1d84ba23f4d2)
+[依赖注入神器：Dagger2详解系列](https://dreamerhome.github.io/2016/07/07/dagger/)
